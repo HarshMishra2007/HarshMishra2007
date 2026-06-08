@@ -1,35 +1,44 @@
 # Hi, I'm Harsh Mishra 👋
 
-I am a Computer Science student from India, currently learning software development.
+CS Student | Python • C++ • Web Development | Building & Learning
 
 ---
 
 ## 🚀 About Me
-- Learning Python, DSA, and Web Development
-- Interested in AI, startups, and building real-world projects
-- Currently focused on improving my problem-solving skills
+
+I'm an incoming Computer Science student passionate about technology, software development, and continuous learning.
+
+Currently focused on building strong programming fundamentals and documenting my journey through projects and GitHub.
 
 ---
 
-## 🛠️ Tech Stack (Learning)
-- Python
-- C++
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+## 📚 Current Focus
+
+* Learning Python
+* Learning C++
+* Exploring Web Development
+* Building beginner projects
+* Preparing for college
 
 ---
 
-## 🎯 Goals for 2026
-- Build strong DSA foundation
-- Create 5–10 solid projects
-- Contribute to open source
-- Get internship-ready
+## 🎯 2026 Goals
+
+* Build multiple real-world projects
+* Develop strong problem-solving skills
+* Learn Data Structures & Algorithms
+* Contribute to open source
+* Grow as a software developer
 
 ---
 
-## 📌 Current Focus
-- Python basics
-- Logical thinking
-- Building first projects
+## 📌 Featured Repositories
+
+* Portfolio Website
+* College CS Journey
+* Student Info System
+* Python Fundamentals
+
+---
+
+### Building, Learning, Improving.
