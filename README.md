@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Harsh Mishra 👋
 
-<!--
-**HarshMishra2007/HarshMishra2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student from India, currently learning software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Learning Python, DSA, and Web Development
+- Interested in AI, startups, and building real-world projects
+- Currently focused on improving my problem-solving skills
+
+---
+
+## 🛠️ Tech Stack (Learning)
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 🎯 Goals for 2026
+- Build strong DSA foundation
+- Create 5–10 solid projects
+- Contribute to open source
+- Get internship-ready
+
+---
+
+## 📌 Current Focus
+- Python basics
+- Logical thinking
+- Building first projects
